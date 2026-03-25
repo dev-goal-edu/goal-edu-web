@@ -148,13 +148,13 @@ export default function Home() {
             <div className="space-y-4">
               <h3 className="text-xl font-semibold text-pink-500">AI-Powered Personalization</h3>
               <p className="text-gray-600 text-sm">
-                GoalEDU leverages cutting-edge AI technology to create tailored learning pathways and school recommendations for every student. By analyzing academic performance, extracurricular interests, and long-term goals, the app provides customized suggestions that align with each student’s unique needs.
+                GoalEDU leverages cutting-edge AI technology to create tailored learning pathways and school recommendations for every student. By analyzing academic performance, extracurricular interests, and long-term goals, the app provides customized suggestions that align with each student&apos;s unique needs.
               </p>
             </div>
             <div className="space-y-4">
               <h3 className="text-xl font-semibold text-pink-500">Integrated Education Ecosystem</h3>
               <p className="text-gray-600 text-sm">
-                Gone are the days of juggling multiple platforms for education planning. GoalEDU combines school admissions, academic planning, extracurricular activity management, and child portfolio creation into one seamless platform. Parents can compare schools, track application statuses, and organize their child's academic achievements all in one place.
+                Gone are the days of juggling multiple platforms for education planning. GoalEDU combines school admissions, academic planning, extracurricular activity management, and child portfolio creation into one seamless platform. Parents can compare schools, track application statuses, and organize their child&apos;s academic achievements all in one place.
               </p>
             </div>
             <div className="space-y-4">
@@ -199,13 +199,11 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Meet Our Team */}
         <div className="bg-gray-50 rounded-2xl p-8 md:p-12 space-y-12">
           <div>
             <p className="text-sm uppercase tracking-wide text-purple-500 mb-4">Meet Our Team</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
-            {/* Kenny Wong */}
             <div className="space-y-4">
               <div className="space-y-2">
                 <p className="text-lg font-medium text-pink-500">Leading Digital Innovation in EdTech</p>
@@ -225,7 +223,6 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            {/* Vincent Lau */}
             <div className="space-y-4">
               <div className="space-y-2">
                 <p className="text-lg font-medium text-pink-500">Shaping the Future of EdTech</p>
@@ -245,7 +242,6 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            {/* Catherine Cheng */}
             <div className="space-y-4">
               <div className="space-y-2">
                 <p className="text-lg font-medium text-pink-500">Driving Innovation in EdTech</p>
@@ -268,7 +264,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* FAQ */}
         <div className="space-y-12">
           <div className="grid md:grid-cols-2 gap-12">
             <h2 className="text-3xl md:text-5xl font-bold leading-tight">FAQ</h2>
