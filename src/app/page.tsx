@@ -210,7 +210,7 @@ export default function Home() {
               <div className="space-y-2">
                 <p className="text-lg font-medium text-pink-500">Leading Digital Innovation in EdTech</p>
                 <p className="text-gray-600 text-sm">
-                  With 25+ years of experience in the financial sector, Kenny specializes in digital transformation and software development. His expertise in cybersecurity, operational efficiency, and innovative solutions drives GoalEDU’s technological advancements.
+                  With 25+ years of experience in the financial sector, Kenny specializes in digital transformation and software development. His expertise in cybersecurity, operational efficiency, and innovative solutions drives GoalEDU&apos;s technological advancements.
                 </p>
               </div>
               <div className="flex items-center gap-4">
@@ -230,7 +230,7 @@ export default function Home() {
               <div className="space-y-2">
                 <p className="text-lg font-medium text-pink-500">Shaping the Future of EdTech</p>
                 <p className="text-gray-600 text-sm">
-                  Vincent combines expertise in digital transformation and enterprise solutions to lead GoalEDU’s growth. His strategic vision ensures the platform delivers impactful, tech-driven education solutions globally.
+                  Vincent combines expertise in digital transformation and enterprise solutions to lead GoalEDU&apos;s growth. His strategic vision ensures the platform delivers impactful, tech-driven education solutions globally.
                 </p>
               </div>
               <div className="flex items-center gap-4">
@@ -250,7 +250,7 @@ export default function Home() {
               <div className="space-y-2">
                 <p className="text-lg font-medium text-pink-500">Driving Innovation in EdTech</p>
                 <p className="text-gray-600 text-sm">
-                  With 25+ years of experience in financial services and technology, Catherine excels at creating innovative solutions for operational efficiency. Her leadership drives GoalEDU’s mission to transform education with cutting-edge technology.
+                  With 25+ years of experience in financial services and technology, Catherine excels at creating innovative solutions for operational efficiency. Her leadership drives GoalEDU&apos;s mission to transform education with cutting-edge technology.
                 </p>
               </div>
               <div className="flex items-center gap-4">
@@ -283,7 +283,7 @@ export default function Home() {
                 <details className="group">
                   <summary className="font-semibold text-gray-800 cursor-pointer">How does the AI-powered personalization work?</summary>
                   <p className="mt-2 text-gray-600 text-sm">
-                    GoalEDU’s AI analyzes data such as academic performance, interests, and goals to recommend schools, extracurricular activities, and learning pathways tailored to each student. The recommendations evolve over time based on user interactions and updates.
+                    GoalEDU&apos;s AI analyzes data such as academic performance, interests, and goals to recommend schools, extracurricular activities, and learning pathways tailored to each student. The recommendations evolve over time based on user interactions and updates.
                   </p>
                 </details>
               </div>
@@ -306,7 +306,6 @@ export default function Home() {
         </div>
       </main>
 
-      {/* Footer */}
       <footer className="bg-white border-t border-gray-200 py-8 px-4 sm:px-6 lg:px-8 mt-12">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
@@ -317,7 +316,7 @@ export default function Home() {
           </div>
           <div>
             <h3 className="font-semibold text-gray-800 mb-2">Contact Information</h3>
-            <p className="text-gray-600 text-sm">Need help or have questions? We’re here to assist you!</p>
+            <p className="text-gray-600 text-sm">Need help or have questions? We&apos;re here to assist you!</p>
             <p className="text-gray-600 text-sm mt-2">
               <strong>Email:</strong>{' '}
               <a href="mailto:info@goal-edu.com" className="text-pink-500 hover:underline">
